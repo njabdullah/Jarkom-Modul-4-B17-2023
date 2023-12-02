@@ -121,37 +121,37 @@ IP ini yang akan digunakan untuk subnetting
 ### Routing
 Routing dilakukan pada Router (terdapat 11 router)
 
-Aura
+Aura<br>
 ![image](https://github.com/njabdullah/Jarkom-Modul-4-B17-2023/assets/92930757/e22ad33c-c228-4bef-8421-8d9cdc1901ff)
 ![image](https://github.com/njabdullah/Jarkom-Modul-4-B17-2023/assets/92930757/e8f91daf-b593-4dae-9b23-293562c7377e)
 
-Denken
+Denken<br>
 ![image](https://github.com/njabdullah/Jarkom-Modul-4-B17-2023/assets/92930757/0d1b66a8-b5ba-4daf-94de-6c234571d030)
 
-Frieren
+Frieren<br>
 ![image](https://github.com/njabdullah/Jarkom-Modul-4-B17-2023/assets/92930757/31b1bb44-ce1e-46fe-aa03-f5c4235c61a7)
 
-Flamme
+Flamme<br>
 ![image](https://github.com/njabdullah/Jarkom-Modul-4-B17-2023/assets/92930757/62727c27-3976-4f8e-a294-73d27ce6a14f)
 
-Fern
+Fern<br>
 ![image](https://github.com/njabdullah/Jarkom-Modul-4-B17-2023/assets/92930757/63b9f20f-2f8f-44e9-b555-f3340652c00a)
 
-Himmel
+Himmel<br>
 ![image](https://github.com/njabdullah/Jarkom-Modul-4-B17-2023/assets/92930757/c1af556d-f073-48ab-817b-830a1e2cf234)
 
-Eisen
+Eisen<br>
 ![image](https://github.com/njabdullah/Jarkom-Modul-4-B17-2023/assets/92930757/83427bfb-53be-4e4d-aa52-8941b30821a5)
 
-Lugner
+Lugner<br>
 ![image](https://github.com/njabdullah/Jarkom-Modul-4-B17-2023/assets/92930757/66f4c2f9-f1af-4b7d-a062-c88c5b273a28)
 
-Linie
+Linie<br>
 ![image](https://github.com/njabdullah/Jarkom-Modul-4-B17-2023/assets/92930757/4e240f76-7c21-47b2-afd2-f2405e47f101)
 
-Lawine
+Lawine<br>
 ![image](https://github.com/njabdullah/Jarkom-Modul-4-B17-2023/assets/92930757/15dd23eb-9dc5-46ce-97ec-327b3c254bdf)
 
-Heiter
+Heiter<br>
 ![image](https://github.com/njabdullah/Jarkom-Modul-4-B17-2023/assets/92930757/1719da06-6abe-4a49-9993-36b5085e53fe)
 
