@@ -38,6 +38,9 @@
 ### Pembagiaan Subnet
 ![Test2](https://github.com/njabdullah/Jarkom-Modul-4-B17-2023/assets/92930757/dd97e202-90e2-4fe8-bab7-ec9661596059)
 
+### Tree VLSM
+![image](https://github.com/njabdullah/Jarkom-Modul-4-B17-2023/assets/92930757/609d5c37-df28-48ef-88f2-ec09396185f6)
+
 ### Pembagian NID, Netmask, dan Broadcast tiap Subnet
 | Subnet | Network ID    | Netmask            | Broadcast      | Jumlah IP | Netmask |
 |--------|---------------|--------------------|----------------|-----------|---------|
@@ -114,9 +117,6 @@ IP ini yang akan digunakan untuk subnetting
 | A22    | Denken         | 10.17.23.1    |
 | A22    | RoyalCapital   | 10.17.23.2    |
 | A22    | WilleRegion    | 10.17.23.65   |
-
-### Tree VLSM
-![image](https://github.com/njabdullah/Jarkom-Modul-4-B17-2023/assets/92930757/609d5c37-df28-48ef-88f2-ec09396185f6)
 
 ### Routing
 Routing dilakukan pada Router (terdapat 11 router)
