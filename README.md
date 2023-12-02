@@ -161,4 +161,7 @@ Mengirim pesan antar client beda subnet/sama subnet<br>
 
 https://github.com/njabdullah/Jarkom-Modul-4-B17-2023/assets/92930757/c8b5b56f-0cba-49ce-95cd-dba20d50d096
 
+---
+
+## CIDR - GNS3
 
