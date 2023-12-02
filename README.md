@@ -155,3 +155,9 @@ Lawine<br>
 Heiter<br>
 ![image](https://github.com/njabdullah/Jarkom-Modul-4-B17-2023/assets/92930757/1719da06-6abe-4a49-9993-36b5085e53fe)
 
+Testing<br>
+Mengirim pesan antar client beda subnet/sama subnet<br>
+![image](https://github.com/njabdullah/Jarkom-Modul-4-B17-2023/assets/92930757/7fdda8ef-3a44-4953-82f9-e34139f94c2b)
+https://github.com/njabdullah/Jarkom-Modul-4-B17-2023/assets/92930757/c8b5b56f-0cba-49ce-95cd-dba20d50d096
+
+
