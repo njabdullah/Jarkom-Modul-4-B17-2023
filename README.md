@@ -449,7 +449,7 @@ route add -net 10.17.136.0 netmask 255.255.255.252 gw 10.18.0.2 - aura
 route add -net 10.17.8.0 netmask 255.255.255.252 gw 10.18.0.2 - aura
 route add -net 10.17.8.0 netmask 255.255.255.252 gw 10.17.32.2 - eisen
 
-
+```
 
 https://github.com/njabdullah/Jarkom-Modul-4-B17-2023/assets/116735029/fc5ab4e0-db37-42f7-9913-18e8c8b7d74a
 
